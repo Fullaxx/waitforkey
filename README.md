@@ -19,7 +19,7 @@ If your OS is not listed, please help us fill out the table, or submit a request
 ./compile.sh
 ```
 
-## Wait for a Key
+## Wait for a key
 Connect to redis @ 127.0.0.1:6379 and wait for NEEDLE to appear. \
 Optional: Set the delay between key checks.
 ```
